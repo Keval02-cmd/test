@@ -1,3 +1,4 @@
 Toady is Good Day 
 
 New learn - How to Work Git Revert changes
+Wongly add file - need to revert it
